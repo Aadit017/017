@@ -13,6 +13,7 @@ public class selectionSort {
         }
         for(int i=0;i<arr.length-1;i++){ 
             int min=i;
+            System.out.println("just testing some stuff on ide");
             for(int j=i+1;j<arr.length;j++){
                 if(arr[j]<arr[min]){
                     min=j;
