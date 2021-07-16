@@ -1,6 +1,6 @@
 package FOR_SCOOL;
 class Information{
-    String value="--------------\n this is the parent class ";
+    String value="--------------> \n this is the parent class ";
 }
 public class inheritanceS extends Information{
     public static void main(String args[]){ 

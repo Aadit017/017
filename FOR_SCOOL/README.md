@@ -1,3 +1,7 @@
+# spm
+### inheritanceS -> inheritance example 
+### encapsulation -> encapsulation example 
+
 `
 Fork it.
 Clone it to your local system.
