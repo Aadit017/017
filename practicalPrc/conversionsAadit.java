@@ -1,3 +1,4 @@
+package practicalPrc;
 // making the code better 
 import java.util.*;
 public class conversionsAadit {
